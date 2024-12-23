@@ -9,4 +9,6 @@
 
  let isloggedin ="arya"
  let booleanisloggedin = Boolean(isloggedin)
- console.log(booleanisloggedin)
+ console.log(booleanisloggedin) 
+
+ //we can do conversion by using this methods.
